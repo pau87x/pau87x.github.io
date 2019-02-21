@@ -1,0 +1,1 @@
+var feed=new Instafeed({get:"user",userId:31708818,accessToken:"31708818.5154f5a.6cba6833e8724117a1b90a826ead7d48",template:'<a href="{{link}}"><img class="responsivei" src="{{image}}" /></a>',filter: function(image) {return image.tags.indexOf('dev') >= 0;},limit:10,resolution:"low_resolution"});feed.run();

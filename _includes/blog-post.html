@@ -1,0 +1,8 @@
+<div class="item {% if post.star %}star{% endif %}">
+    <a class="url" href="{{ site.url }}{{ post.url }}">
+        <aside class="date">
+            {% include date_abb_es.html date=post.date %}
+        </aside>
+        <h3 class="title">{{ post.title }}</h3>
+    </a>
+</div>
