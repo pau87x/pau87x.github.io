@@ -1,5 +1,6 @@
 # MapacheDev
-### A little blog Based in 
+
+### A little blog Based in
 [Indigo Minimalist Jekyll Template](http://sergiokopplin.github.io/indigo/)  
 
 <p align="center">
