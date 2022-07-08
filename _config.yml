@@ -1,6 +1,6 @@
 # main text of home
 name: Paulina Elizalde
-bio: Web developer
+bio: Backend developer
 
 # twitter summary info
 description: MapacheDev Blog
@@ -45,7 +45,7 @@ email: pelizaldea@gmail.com
 authors:
     pau87x:
         name: Paulina Elizalde
-        bio: Web developer
+        bio: Backend developer
         external-image: false
         picture: assets/images/profile.jpg
         twitter: pau87x
@@ -59,12 +59,12 @@ width: normal
 # paginate: 5
 # paginate_path: "blog/:num/"
 
-# if you don't need projects, comment the *projects* configs below
-projects: false
-
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+blog: false
+
+# if you don't need projects, comment the *projects* configs below
+projects: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -89,7 +89,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-admin
+#  - jekyll-admin
 
 jekyll-mentions:
     base_url: https://github.com
