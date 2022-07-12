@@ -27,8 +27,8 @@ Languages
 
 Frameworks
     <ul class="skill-list-light">
-        <li>django</li>
-        <li>flask</li>
+        <li>Django</li>
+        <li>Flask</li>
         <li>NodeJS</li>
     </ul>
 
