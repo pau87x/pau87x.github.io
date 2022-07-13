@@ -11,7 +11,7 @@ customjs:
 
 ## I'm Paulina Elizalde 👩🏽‍
 
-I work as a developer, I like to program on the backend side, I still like to 
+I work as a Software Developer, I like to program on the backend side, I still like to 
 fight a bit with the frontend mainly with javascript, I enjoy more working 
 with data. I have been working as a dev for 10 years after I studied Computer 
 systems engineering.
