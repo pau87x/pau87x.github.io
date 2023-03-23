@@ -11,8 +11,9 @@ customjs:
 
 ## I'm Paulina Elizalde 👩🏽‍
 
-I work as a Software Developer, I like to program on the backend side, I still like to 
-fight a bit with the frontend mainly with javascript, I enjoy more working 
+I work as a Software Developer, I enjoy program as a fullstack developer, 
+I work more as a backend developer,
+I still like to fight a bit with the frontend mainly with javascript, I enjoy more working 
 with data. I have been working as a dev for 10 years after I studied Computer 
 systems engineering.
 
@@ -28,7 +29,7 @@ Languages
 Frameworks
     <ul class="skill-list-light">
         <li>Django</li>
-        <li>Flask</li>
+        <li>FastAPI</li>
         <li>NodeJS</li>
     </ul>
 
@@ -49,8 +50,7 @@ Others
 
 When I am not working, I enjoy see a tv show or walk around my city listening 
 music or a good podcast. I try to go for a morning run. I love to listen music,
-is normal see me with headphones all day, I consider myself a musician even if 
-I don't play interesting things anymore. 🎻
+is normal see me with headphones all day, I consider myself a musician too. 🎻
 
 ### Contáctame por
 
