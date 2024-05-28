@@ -9,7 +9,7 @@ customjs:
 
 # Hi 👋🏼
 
-## I'm Paulina Elizalde 👩🏽‍
+## I'm Pau 👩🏽‍💻
 
 I've been a Software Developer for more than 10 years now, ever since I graduated with a degree in Computer Systems Engineering. While I enjoy the full-stack development process, my sweet spot lies in back-end development. I still dabble in front-end work, particularly with JavaScript, but my true passion lies in working with data.
 
