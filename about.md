@@ -11,11 +11,7 @@ customjs:
 
 ## I'm Paulina Elizalde 👩🏽‍
 
-I work as a Software Developer, I enjoy program as a fullstack developer, 
-I work more as a backend developer,
-I still like to fight a bit with the frontend mainly with javascript, I enjoy more working 
-with data. I have been working as a dev for 10 years after I studied Computer 
-systems engineering.
+I've been a Software Developer for more than 10 years now, ever since I graduated with a degree in Computer Systems Engineering. While I enjoy the full-stack development process, my sweet spot lies in back-end development. I still dabble in front-end work, particularly with JavaScript, but my true passion lies in working with data.
 
 ### Skills 
 <div class="skill-list">
@@ -52,7 +48,7 @@ When I am not working, I enjoy see a tv show or walk around my city listening
 music or a good podcast. I try to go for a morning run. I love to listen music,
 is normal see me with headphones all day, I consider myself a musician too. 🎻
 
-### Contáctame por
+### Say hello
 
 twitter: [pau87x](http://twitter.com/pau87x)  
 github: [pau87x](http://github.com/pau87x)  
